@@ -1,0 +1,6 @@
+--reporter cobertura
+--reporter nyan
+--recursive
+--timeout 8000
+--exit
+mocha.init.js worlds/tests
